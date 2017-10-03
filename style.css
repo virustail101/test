@@ -1,0 +1,81 @@
+#logo{
+    text-align: right;
+    
+}
+.line{
+    
+    border: 3px solid blue;
+    margin-top: -7px;
+}
+#img{
+    float: left;
+    padding: 10px 10px 10px 10px;
+}
+#imgtxt{
+    margin: -17px;
+    margin-bottom: 30px;
+    
+}
+/*
+#div-element{
+    clear: both;
+}*/
+#all{
+    display: inline;
+}
+.div1 {
+    display: inline-block;
+    float: left;
+    width: 400px;
+    height: 277px;
+    border: 1px solid gray;
+    border-radius: 25px;
+    margin: 10px 10px 10px 10px;
+    padding-left: 10px;
+}
+
+.div2 {
+    display: inline-block;
+    float: left;
+    width: 400px;
+    height: 277px;
+    border: 1px solid gray;
+    border-radius: 25px;
+    margin: 10px 10px 10px 10px;
+}
+.div3 {
+    display: inline-block;
+    float: left;
+    width: 400px;
+    height: 277px;
+    border: 1px solid gray;
+    border-radius: 25px;
+    margin: 10px 10px 10px 10px;
+    padding-left: 10px;
+}
+
+.test{
+    overflow: hidden;
+    background-color: blue;
+    list-style-type: none;
+    clear: both;
+    margin: 0px;
+    padding: 0px;
+}
+li {
+    float: left;
+    
+}
+
+li a {
+    
+    color: white;
+    
+    padding: 5px;
+    text-decoration: none;
+}
+
+.cpy{
+    float: right;
+    padding: 2px;
+}
